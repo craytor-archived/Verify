@@ -1,0 +1,8 @@
+name: Verify
+author: Craytor
+version: 1
+description: Verification plugin for MineFlux
+main: io.github.craytor.verify.Main
+commands:
+    hub:
+        description: Teleport to hub
